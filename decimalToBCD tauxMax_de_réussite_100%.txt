@@ -1,0 +1,3014 @@
+
+ ******* APPRENTISSAGE REUSSI ******** 
+ 
+ % de réussites par boucle (époque):  
+ boucle 1: 89.5571
+ boucle 2: 100
+ nombre de boucles total: 2
+ Taux d'apprentissage: 0.2
+ nombre d'exemples (images): 7000
+ Fichier exemples = /home/bernard/Qt/data_decimalToBCD/decimalToBCD.txt
+ nombre de couches cachées = -1
+ nombre de neurones de la couche 0 = 10
+ nombre de neurones de la couche 1 = 3
+ nombre de neurones de la couche 2 = 4
+
+500 derniers résultats 
+ 
+exemple: 6501
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6502
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6503
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6504
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6505
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6506
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6507
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6508
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6509
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6510
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6511
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6512
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6513
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6514
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6515
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6516
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6517
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6518
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6519
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6520
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6521
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6522
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6523
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6524
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6525
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6526
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6527
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6528
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6529
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6530
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6531
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6532
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6533
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6534
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6535
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6536
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6537
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6538
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6539
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6540
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6541
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6542
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6543
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6544
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6545
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6546
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6547
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6548
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6549
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6550
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6551
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6552
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6553
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6554
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6555
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6556
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6557
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6558
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6559
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6560
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6561
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6562
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6563
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6564
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6565
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6566
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6567
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6568
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6569
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6570
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6571
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6572
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6573
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6574
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6575
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6576
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6577
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6578
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6579
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6580
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6581
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6582
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6583
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6584
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6585
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6586
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6587
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6588
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6589
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6590
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6591
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6592
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6593
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6594
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6595
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6596
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6597
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6598
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6599
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6600
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6601
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6602
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6603
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6604
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6605
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6606
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6607
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6608
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6609
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6610
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6611
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6612
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6613
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6614
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6615
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6616
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6617
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6618
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6619
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6620
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6621
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6622
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6623
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6624
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6625
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6626
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6627
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6628
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6629
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6630
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6631
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6632
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6633
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6634
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6635
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6636
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6637
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6638
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6639
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6640
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6641
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6642
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6643
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6644
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6645
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6646
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6647
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6648
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6649
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6650
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6651
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6652
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6653
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6654
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6655
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6656
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6657
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6658
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6659
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6660
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6661
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6662
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6663
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6664
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6665
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6666
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6667
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6668
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6669
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6670
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6671
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6672
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6673
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6674
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6675
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6676
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6677
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6678
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6679
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6680
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6681
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6682
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6683
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6684
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6685
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6686
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6687
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6688
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6689
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6690
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6691
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6692
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6693
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6694
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6695
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6696
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6697
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6698
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6699
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6700
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6701
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6702
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6703
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6704
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6705
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6706
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6707
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6708
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6709
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6710
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6711
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6712
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6713
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6714
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6715
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6716
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6717
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6718
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6719
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6720
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6721
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6722
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6723
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6724
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6725
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6726
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6727
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6728
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6729
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6730
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6731
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6732
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6733
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6734
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6735
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6736
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6737
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6738
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6739
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6740
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6741
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6742
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6743
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6744
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6745
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6746
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6747
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6748
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6749
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6750
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6751
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6752
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6753
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6754
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6755
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6756
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6757
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6758
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6759
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6760
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6761
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6762
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6763
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6764
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6765
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6766
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6767
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6768
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6769
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6770
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6771
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6772
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6773
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6774
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6775
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6776
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6777
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6778
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6779
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6780
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6781
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6782
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6783
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6784
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6785
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6786
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6787
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6788
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6789
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6790
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6791
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6792
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6793
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6794
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6795
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6796
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6797
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6798
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6799
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6800
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6801
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6802
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6803
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6804
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6805
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6806
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6807
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6808
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6809
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6810
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6811
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6812
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6813
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6814
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6815
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6816
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6817
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6818
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6819
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6820
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6821
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6822
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6823
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6824
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6825
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6826
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6827
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6828
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6829
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6830
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6831
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6832
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6833
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6834
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6835
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6836
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6837
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6838
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6839
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6840
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6841
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6842
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6843
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6844
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6845
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6846
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6847
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6848
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6849
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6850
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6851
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6852
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6853
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6854
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6855
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6856
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6857
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6858
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6859
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6860
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6861
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6862
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6863
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6864
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6865
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6866
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6867
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6868
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6869
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6870
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6871
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6872
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6873
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6874
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6875
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6876
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6877
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6878
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6879
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6880
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6881
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6882
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6883
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6884
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6885
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6886
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6887
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6888
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6889
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6890
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6891
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6892
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6893
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6894
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6895
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6896
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6897
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6898
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6899
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6900
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6901
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6902
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6903
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6904
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6905
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6906
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6907
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6908
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6909
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6910
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6911
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6912
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6913
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6914
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6915
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6916
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6917
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6918
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6919
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6920
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6921
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6922
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6923
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6924
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6925
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6926
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6927
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6928
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6929
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6930
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6931
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6932
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6933
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6934
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6935
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6936
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6937
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6938
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6939
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6940
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6941
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6942
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6943
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6944
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6945
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6946
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6947
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6948
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6949
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6950
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6951
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6952
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6953
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6954
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6955
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6956
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6957
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6958
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6959
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6960
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6961
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6962
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6963
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6964
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6965
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6966
+sortie: 0 output= 0.958148, cible= 1         cible - output: 0.0418525 
+sortie: 1 output= 0.960499, cible= 1         cible - output: 0.0395015 
+sortie: 2 output= 0.0278024, cible= 0         cible - output: -0.0278024 
+sortie: 3 output= 0.00457966, cible= 0         cible - output: -0.00457966 
+
+exemple: 6967
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6968
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6969
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6970
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6971
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6972
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6973
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6974
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6975
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6976
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6977
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6978
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6979
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6980
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6981
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6982
+sortie: 0 output= 0.0330735, cible= 0         cible - output: -0.0330735 
+sortie: 1 output= 0.959006, cible= 1         cible - output: 0.0409937 
+sortie: 2 output= 0.95849, cible= 1         cible - output: 0.0415101 
+sortie: 3 output= 0.0303117, cible= 0         cible - output: -0.0303117 
+
+exemple: 6983
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6984
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6985
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6986
+sortie: 0 output= 0.961694, cible= 1         cible - output: 0.0383058 
+sortie: 1 output= 0.958314, cible= 1         cible - output: 0.041686 
+sortie: 2 output= 0.959695, cible= 1         cible - output: 0.0403048 
+sortie: 3 output= 0.0327447, cible= 0         cible - output: -0.0327447 
+
+exemple: 6987
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6988
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6989
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6990
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6991
+sortie: 0 output= 0.0415034, cible= 0         cible - output: -0.0415034 
+sortie: 1 output= 0.00329259, cible= 0         cible - output: -0.00329259 
+sortie: 2 output= 0.0372451, cible= 0         cible - output: -0.0372451 
+sortie: 3 output= 0.0146555, cible= 0         cible - output: -0.0146555 
+
+exemple: 6992
+sortie: 0 output= 0.0399924, cible= 0         cible - output: -0.0399924 
+sortie: 1 output= 0.963271, cible= 1         cible - output: 0.0367288 
+sortie: 2 output= 0.0290936, cible= 0         cible - output: -0.0290936 
+sortie: 3 output= 0.0185603, cible= 0         cible - output: -0.0185603 
+
+exemple: 6993
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+
+exemple: 6994
+sortie: 0 output= 0.0388602, cible= 0         cible - output: -0.0388602 
+sortie: 1 output= 0.0445921, cible= 0         cible - output: -0.0445921 
+sortie: 2 output= 0.0194944, cible= 0         cible - output: -0.0194944 
+sortie: 3 output= 0.959755, cible= 1         cible - output: 0.0402445 
+
+exemple: 6995
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6996
+sortie: 0 output= 0.0423954, cible= 0         cible - output: -0.0423954 
+sortie: 1 output= 0.0053612, cible= 0         cible - output: -0.0053612 
+sortie: 2 output= 0.96594, cible= 1         cible - output: 0.0340601 
+sortie: 3 output= 0.0111521, cible= 0         cible - output: -0.0111521 
+
+exemple: 6997
+sortie: 0 output= 0.956614, cible= 1         cible - output: 0.0433855 
+sortie: 1 output= 0.0374741, cible= 0         cible - output: -0.0374741 
+sortie: 2 output= 0.959403, cible= 1         cible - output: 0.0405969 
+sortie: 3 output= 0.0174811, cible= 0         cible - output: -0.0174811 
+
+exemple: 6998
+sortie: 0 output= 0.966854, cible= 1         cible - output: 0.0331457 
+sortie: 1 output= 0.0320038, cible= 0         cible - output: -0.0320038 
+sortie: 2 output= 0.0410205, cible= 0         cible - output: -0.0410205 
+sortie: 3 output= 0.0154753, cible= 0         cible - output: -0.0154753 
+
+exemple: 6999
+sortie: 0 output= 0.966677, cible= 1         cible - output: 0.0333227 
+sortie: 1 output= 0.0448192, cible= 0         cible - output: -0.0448192 
+sortie: 2 output= 0.0335528, cible= 0         cible - output: -0.0335528 
+sortie: 3 output= 0.961105, cible= 1         cible - output: 0.0388953 
+sortie: 0 output= 0.966633, cible= 1         cible - output: 0.0333668 
+sortie: 1 output= 0.0449244, cible= 0         cible - output: -0.0449244 
+sortie: 2 output= 0.0335979, cible= 0         cible - output: -0.0335979 
+sortie: 3 output= 0.961035, cible= 1         cible - output: 0.0389648 
